@@ -1,4 +1,2 @@
 mountpoints:
   /: https://author-p159312-e2075332.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-learning/main
-    type: "markup"
-    suffix: ".html"
