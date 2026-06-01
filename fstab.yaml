@@ -1,9 +1,13 @@
 mountpoints:
   /:
 <<<<<<< HEAD
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
 =======
     url: https://author-p159312-e2075332.adobeaemcloud.com/bin/franklin.delivery/yerrola/content/eds-forms-learning/main
 >>>>>>> 501722f (EDS forms learning)
+=======
+    url: https://author-p159312-e2075332.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-learning/main
+>>>>>>> e800d2b (Updated path)
     type: "markup"
     suffix: ".html"
