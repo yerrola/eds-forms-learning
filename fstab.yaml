@@ -20,6 +20,9 @@ mountpoints:
 >>>>>>> 2016717 (Fix URL formatting in fstab.yaml)
 =======
   /: https://author-p159312-e2075332.adobeaemcloud.com/bin/franklin.delivery/yerrola/eds-forms-learning/main
+<<<<<<< HEAD
 >>>>>>> 88c471f (Simplify mountpoints configuration in fstab.yaml)
     type: "markup"
     suffix: ".html"
+=======
+>>>>>>> 8e84601 (Remove type and suffix from mountpoint configuration)
